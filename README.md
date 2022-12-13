@@ -2,7 +2,7 @@
 <p>
   🌍 I am an enthusiast of the Internet, computer science, and embedded electronics (Arduino, RPi, ESP32 etc.)<br/>
   🌱 I am a self-taught developer and enjoy both frontend and backend development (<i>as well as reverse engineering</i>)<br/>
-  💞️ I'm a <b>big</b> fan of Node.js <3
+  💞️ I'm a <b>big</b> fan of Node.js and TypeScript <3
 </p>
 
 ## 💻 My projects
