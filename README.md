@@ -8,7 +8,7 @@
 
 ## 🔭 My projects
 - I made the [Twitter 1Click Block Extension](https://github.com/selimgr/twitter-1click-block-extension)  
-- I'm working on a secret project 🤫
+- ... and that's it
 
 ## 🪩 My passions
 In addition to coding, I love discovering new cultures and learning new languages.  
